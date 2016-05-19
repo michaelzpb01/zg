@@ -42,7 +42,7 @@
 			$(".download-app").hide();
 		}
 	},false);
-}();
+})();
 
 
 
