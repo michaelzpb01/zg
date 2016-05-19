@@ -141,7 +141,7 @@ footer{
 }
 /*微信提示层*/
 .wx-share{
-	position: absolute;
+	position: fixed;
 	left: 0;
 	top: 0;
 	width: 100%;

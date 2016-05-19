@@ -38,6 +38,9 @@
 				});
 			});
 		}
+		$(".wx-share").on('touchmove',function(){
+			return false;
+		});
 	},false);
 })();
 
