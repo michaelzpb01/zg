@@ -1,4 +1,4 @@
-;(function()){
+;(function(){
 	//页面主体加载完成执行
 	document.addEventListener('DOMContentLoaded',function(){
 		//获取头部下载按钮
