@@ -38,9 +38,6 @@
 				});
 			});
 		}
-		if(browser.versions.android){
-			$(".download-app").hide();
-		}
 	},false);
 })();
 
